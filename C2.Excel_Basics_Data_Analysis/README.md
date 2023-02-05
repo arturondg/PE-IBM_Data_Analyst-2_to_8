@@ -18,11 +18,28 @@ This is the second course of IBM Data Analysis Specialization. It includes the f
 Althougth I did several labs in this course, I will only post the labs from the Final Project,  
 as the changes are more visible. And in this case, It was posted the data and the final result.
 
-#### Final Project
-  * Part 1: Clean and Prepare the Data
-    * [Raw Data](https://innovaccion-my.sharepoint.com/:x:/g/personal/ceinnova12182_innovaccion_mx/EQnv7jkWRKhBtHKdsJM1OnIBpsyh8Zlkrz3Vaarpybo_nQ?e=qPqtpc)
-    * [Exercise Completed](https://innovaccion-my.sharepoint.com/:x:/g/personal/ceinnova12182_innovaccion_mx/ETx8YMY9DGFOpgrBpskwSRUBLC__6stHRD5BlLgZB_rwzg?e=FLaNhB)
+### Final Project
+#### 1. Part 1: Clean and Prepare the Data
   
-  * Part 2: 
-    * [Raw Data](https://innovaccion-my.sharepoint.com/:x:/g/personal/ceinnova12182_innovaccion_mx/EY2yGoZy-ZtKm1OYbYcdBvQBrnaNALU1i0V1i0JNy_4q9Q?e=eO0WwP)
-    * [Exercise Completed](https://innovaccion-my.sharepoint.com/:x:/g/personal/ceinnova12182_innovaccion_mx/EYIhYuG1cW1JmT4nGjXwDPoBTYYdvDCcmwWtsE9i91TiVQ?e=eCDfPA)
+* [Raw Data](https://innovaccion-my.sharepoint.com/:x:/g/personal/ceinnova12182_innovaccion_mx/EQnv7jkWRKhBtHKdsJM1OnIBpsyh8Zlkrz3Vaarpybo_nQ?e=qPqtpc)
+    
+<img src="Assets/ExcelDAP11.png" width="500" height="400">
+    
+* [Exercise Completed](https://innovaccion-my.sharepoint.com/:x:/g/personal/ceinnova12182_innovaccion_mx/ETx8YMY9DGFOpgrBpskwSRUBLC__6stHRD5BlLgZB_rwzg?e=FLaNhB)
+  
+<img src="Assets/ExcelDAP12.png" width="500" height="400">
+  
+#### 2. Part 2: Analyze the Data
+  
+* [Raw Data](https://innovaccion-my.sharepoint.com/:x:/g/personal/ceinnova12182_innovaccion_mx/EY2yGoZy-ZtKm1OYbYcdBvQBrnaNALU1i0V1i0JNy_4q9Q?e=eO0WwP)
+
+<img src="Assets/ExcelDAP21.png" width="500" height="400">
+
+* [Exercise Completed](https://innovaccion-my.sharepoint.com/:x:/g/personal/ceinnova12182_innovaccion_mx/EYIhYuG1cW1JmT4nGjXwDPoBTYYdvDCcmwWtsE9i91TiVQ?e=eCDfPA)
+
+<div>
+ <img src="Assets/ExcelDAP221.png" width="350" height="300"/>
+ <img src="Assets/ExcelDAP222.png" width="350" height="300"/>
+ <img src="Assets/ExcelDAP223.png" width="350" height="300"/>
+ <img src="Assets/ExcelDAP224.png" width="350" height="300"/>
+</div>
