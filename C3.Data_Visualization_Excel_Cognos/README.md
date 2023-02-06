@@ -13,7 +13,8 @@ This is the third course of [IBM Data Analysis Specialization](https://www.cours
 
 ## Labs
 
-The labs I have post are from modules 1, 2 and 4. This is because the use of Cognos Analytics was limited to the free trial.
+The labs for modules 1, 2 and 4 are in original format , while those of Cognos Analytics were published in PDF document (Except module 3).
+This is because the use of Cognos Analytics was limited to the free trial.
 
 ### 1. Visualizing Data Using Spreadsheets
 
@@ -23,7 +24,7 @@ The labs I have post are from modules 1, 2 and 4. This is because the use of Cog
 
 <img src="Assets/DataViz_ExcelP111.png" width="580" height="300">
 
-+ [Task Completed](https://innovaccion-my.sharepoint.com/:x:/g/personal/ceinnova12182_innovaccion_mx/ERp0URiEmglFg2tbqO359ywBs5YXQIiD4bTxapiSMDyKrQ?e=fwjlh5)
++ [Lab Completed](https://innovaccion-my.sharepoint.com/:x:/g/personal/ceinnova12182_innovaccion_mx/ERp0URiEmglFg2tbqO359ywBs5YXQIiD4bTxapiSMDyKrQ?e=fwjlh5)
 
 <div>
  <img src="Assets/DataViz_ExcelP121.png" width="300" height="230"/>
@@ -34,5 +35,33 @@ The labs I have post are from modules 1, 2 and 4. This is because the use of Cog
 
 ### 2. Creating Visualizations and Dashboards with Spreadsheets
 
-#### Creating Advanced Charts
+#### 1. Creating Advanced Charts
+
++ [Original Document](https://innovaccion-my.sharepoint.com/:x:/g/personal/ceinnova12182_innovaccion_mx/ESxfpRHonaxAsfdltIFfc7gBUO0pvh3ZvaSisLbm447ApA?e=OXMPlh)
+
+<img src="Assets/DataViz_ExcelP211.png" width="580" height="300">
+
++ [Lab Completed](https://innovaccion-my.sharepoint.com/:x:/g/personal/ceinnova12182_innovaccion_mx/EXxY8JbmkiBKhaqdWG-c_mwB72JjLQLNRbi1zZrZsDvFpg?e=MZGafn)
+
+<div>
+ <img src="Assets/DataViz_ExcelP221.png" width="320" height="200"/>
+ <img src="Assets/DataViz_ExcelP222.png" width="320" height="200"/>
+ <img src="Assets/DataViz_ExcelP223.png" width="320" height="200"/>
+</div>
+
+#### 2. Creating a Simple Dashboard with Excel
+
++ [Original Document](https://innovaccion-my.sharepoint.com/:x:/g/personal/ceinnova12182_innovaccion_mx/EXqMh3f1VExEj3OnJ5iIFWYBcFDej8g0r0ge-n4WxA1plQ?e=UYwBsi)
+
+<img src="Assets/DataViz_ExcelP311.png" width="580" height="300">
+
++ [Lab Completed](https://innovaccion-my.sharepoint.com/:x:/g/personal/ceinnova12182_innovaccion_mx/ETMsXwEZPtBHtxtzNHSvJXIBUt0WMKoRWdLl0R_cYQJtAA?e=zLwaUV)
+
+<img src="Assets/DataViz_ExcelP321.png" width="530" height="330"/>
+ 
+
+### 4. Final Project
+
+
+
 
