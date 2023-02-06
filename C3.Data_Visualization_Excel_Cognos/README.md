@@ -62,6 +62,29 @@ This is because the use of Cognos Analytics was limited to the free trial.
 
 ### 4. Final Project
 
+#### 1. Part 1: Creating Visualizations Using Excel
 
++ [Original Document](https://innovaccion-my.sharepoint.com/:x:/g/personal/ceinnova12182_innovaccion_mx/EdPYbQVTqrNPlEFMq3ptMHUBYnJJqt11x68J2aEwhOXolg?e=IPqkGv)
+
+<img src="Assets/DataViz_ExcelP411.png" width="580" height="300">
+
++ [Lab Completed](https://innovaccion-my.sharepoint.com/:x:/g/personal/ceinnova12182_innovaccion_mx/EZJS5D0LLy5NhBmgUDkPHU8Blc4_jayuWVy5DEJze3bQnA?e=Da89OO)
+
+<div>
+ <img src="Assets/DataViz_ExcelP421.png" width="330" height="230"/>
+ <img src="Assets/DataViz_ExcelP423.png" width="330" height="230"/>
+ <img src="Assets/DataViz_ExcelP424.png" width="330" height="230"/>
+</div>
+
+
+
+#### 2. Part 2: Creating Visualizations Using Cognos Analytics
+
++ [Lab Completed](https://innovaccion-my.sharepoint.com/:b:/g/personal/ceinnova12182_innovaccion_mx/EVrWExnIcVNHoxzRQnHJ-lsB98TkOuA_QVYsyOjq0sIfxQ?e=WgpU69)
+
+<div>
+ <img src="Assets/DataViz_ExcelP431.png" width="500" height="330"/>
+ <img src="Assets/DataViz_ExcelP432.png" width="500" height="330"/>
+</div>
 
 
