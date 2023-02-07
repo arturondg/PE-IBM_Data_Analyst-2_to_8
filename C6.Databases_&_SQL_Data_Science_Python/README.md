@@ -27,3 +27,8 @@ For this reason, only the fourth and fifth modules were added.
 - #### [Accessing Databases with SQL Magic](/C6.Databases_&_SQL_Data_Science_Python/S4.Accessing_Databases_using_Python/DB0201EN-Week3-1-3-SQLmagic-v3-py.ipynb)
 
 - #### [Analyzing a real world data-set with SQL and Python](/C6.Databases_&_SQL_Data_Science_Python/S4.Accessing_Databases_using_Python/DB0201EN-Week3-1-4-Analyzing-v5-py.ipynb)
+
+
+### 5. Course Assignment
+
+- #### [Final Assignment - Data Analysis SQL](/C6.Databases_&_SQL_Data_Science_Python/S5.Course_Assignment/DB0201EN-PeerAssign-v5.ipynb)
