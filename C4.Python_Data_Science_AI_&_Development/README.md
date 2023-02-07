@@ -21,4 +21,11 @@ All labs are in Jupyter Notebooks, and belong to fourth and fifth modules.
 
 ### 4. Working with Data in Python 
 
-- [Reading Files Python](/S4.Working_Data_Python/PY0101EN-4-1-ReadFile.ipynb)
+- [Reading Files Python](/C4.Python_Data_Science_AI_&_Development/S4.Working_Data_Python/PY0101EN-4-1-ReadFile.ipynb)
+- [Write and Save Files in Python](/C4.Python_Data_Science_AI_&_Development/S4.Working_Data_Python/PY0101EN-4-2-WriteFile.ipynb)
+- [Introduction to Pandas in Python](/C4.Python_Data_Science_AI_&_Development/S4.Working_Data_Python/PY0101EN-4-3-LoadData(Complete).ipynb)
+
+### 5. APIs, and Data Collection
+
+- [Introduction to API](/C4.Python_Data_Science_AI_&_Development/S5.APIs_&_Data_Collection/PY0101EN-5.1_Intro_API.ipynb)
+- [Simple APIs](/C4.Python_Data_Science_AI_&_Development/S5.APIs_&_Data_Collection/PY0101EN-5.2_API_2.v2.ipynb)
