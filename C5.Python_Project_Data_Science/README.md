@@ -10,14 +10,14 @@ Its unique module is as follows:
 
 In this module you will find the following exercises:  
 
-#### - [Extracting Stock Data Using a Web Scraping](/C5.Python_Project_Data_Science/1.-Final_Assignment_Webscraping.ipynb)
+- #### [Extracting Stock Data Using a Web Scraping](/C5.Python_Project_Data_Science/1.-Final_Assignment_Webscraping.ipynb)
 
-#### - [Extracting Stock Data Using a Python Library](/C5.Python_Project_Data_Science/2.-Final_Assignment_Library.ipynb)
+- #### [Extracting Stock Data Using a Python Library](/C5.Python_Project_Data_Science/2.-Final_Assignment_Library.ipynb)
 
 And as a final project, financial data such as historical stock price and quarterly revenue reports  
 were extracted and visualizations were made.
 
-### - [Extracting and Visualizing Stock Data(Gamestop stock vs Tesla)](/C5.Python_Project_Data_Science/3.-Final_Assignment.ipynb)
+- ####  [Extracting and Visualizing Stock Data(Gamestop stock vs Tesla)](/C5.Python_Project_Data_Science/3.-Final_Assignment.ipynb)
 
 The visualizations created are not shown in the document, so they are posted below. 
 
