@@ -6,7 +6,7 @@ Python Project for Data Science is the fifth course of [IBM Data Analysis Specia
 Although it is a small project, the course contains other exercises to reinforce knowledge.  
 Its unique module is as follows:
 
-### Crowdsourcing Short squeeze Dashboard
+## Crowdsourcing Short squeeze Dashboard
 
 In this module you will find the following exercises:  
 
