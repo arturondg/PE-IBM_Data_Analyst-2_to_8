@@ -1,4 +1,4 @@
-# IBM Data Analyst Professional Certificate (2 - 8 courses)
+# IBM Data Analyst Professional Certificate (2 - 8)
 
 [<img src="https://images.credly.com/size/680x680/images/2e9770bd-020f-4435-99c2-89b2403467a4/Professional_Certificate_-_Data_Analyst.png" width="350" height="350">](https://www.coursera.org/account/accomplishments/specialization/certificate/947G6HG93HX8)
 
