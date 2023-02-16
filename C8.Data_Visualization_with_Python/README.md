@@ -49,11 +49,46 @@ For which images of the evidence will be uploaded.
 
 #### 3. Add interactivity: user input and callbacks
 
--[Guided exercise](/C8.Data_Visualization_with_Python/S4.Creating_Dashboards_Plotly_Dash/S4.3.1.-dash_interactivity.py)
+- [Guided exercise](/C8.Data_Visualization_with_Python/S4.Creating_Dashboards_Plotly_Dash/S4.3.1.-dash_interactivity.py)
 
 <div>
   <img src="/C8.Data_Visualization_with_Python/Assets/App_dashplot211.png" width="500" height="230"/>
   <img src="/C8.Data_Visualization_with_Python/Assets/App_dashplot212.png" width="500" height="230"/>
 </div>
 
--[Task entrusted](/C8.Data_Visualization_with_Python/S4.Creating_Dashboards_Plotly_Dash/S4.3.2.-dash_interactivity2.py)
+- [Task entrusted](/C8.Data_Visualization_with_Python/S4.Creating_Dashboards_Plotly_Dash/S4.3.2.-dash_interactivity2.py)
+
+<div>
+  <img src="/C8.Data_Visualization_with_Python/Assets/App_dashplot221.png" width="500" height="230"/>
+  <img src="/C8.Data_Visualization_with_Python/Assets/App_dashplot222.png" width="500" height="230"/>
+</div>
+
+#### 4. Flight Delay Time Statistics Dashboard
+
+- [Guided exercise](/C8.Data_Visualization_with_Python/S4.Creating_Dashboards_Plotly_Dash/S4.4.1.-flight_delay.py)
+
+<div>
+  <img src="/C8.Data_Visualization_with_Python/Assets/App_dashplot311.png" width="500" height="250"/>
+  <img src="/C8.Data_Visualization_with_Python/Assets/App_dashplot312.png" width="500" height="250"/>
+</div>
+  
+<div>
+  <img src="/C8.Data_Visualization_with_Python/Assets/Dash_plot3113.png" width="245" height="135"/>
+  <img src="/C8.Data_Visualization_with_Python/Assets/Dash_plot3114.png" width="245" height="135"/>
+  <img src="/C8.Data_Visualization_with_Python/Assets/Dash_plot3123.png" width="245" height="135"/>
+  <img src="/C8.Data_Visualization_with_Python/Assets/Dash_plot3124.png" width="245" height="135"/>
+</div>
+
+- [Task entrusted](/C8.Data_Visualization_with_Python/S4.Creating_Dashboards_Plotly_Dash/S4.4.2.-flight_details.py)
+
+<div>
+  <img src="/C8.Data_Visualization_with_Python/Assets/App_dashplot321.png" width="500" height="250"/>
+  <img src="/C8.Data_Visualization_with_Python/Assets/App_dashplot322.png" width="500" height="250"/>
+</div>
+  
+<div>
+  <img src="/C8.Data_Visualization_with_Python/Assets/Dash_plot3213.png" width="245" height="135"/>
+  <img src="/C8.Data_Visualization_with_Python/Assets/Dash_plot3214.png" width="245" height="135"/>
+  <img src="/C8.Data_Visualization_with_Python/Assets/Dash_plot3223.png" width="245" height="135"/>
+  <img src="/C8.Data_Visualization_with_Python/Assets/Dash_plot3224.png" width="245" height="135"/>
+</div>
