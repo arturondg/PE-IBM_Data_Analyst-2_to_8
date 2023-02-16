@@ -2,12 +2,43 @@
 
 [<img src="https://images.credly.com/size/680x680/images/76326afb-199d-4250-a74f-01bc86dda118/Cognitive_Class_-_Data_Visual_w_Python.png" width="350" height="350">](https://www.credly.com/badges/bc35e368-b9b0-4519-badf-4baecf06be97/public_url)
 
-This course is the eighth in [IBM Data Analyst Specialization](https://www.coursera.org/account/accomplishments/professional-cert/947G6HG93HX8). It teaches vaious tools and techniques to create charts, graphs and dachrboards with Python.
+This course is the eighth in [IBM Data Analyst Specialization](https://www.coursera.org/account/accomplishments/professional-cert/947G6HG93HX8). It teaches various tools and techniques to create charts, graphs and dashboards with Python.
 
 ### Agenda
 
 1. Introduction to Data Visualization Tools
 2. Basic and Specialized Visualization Tools
-3. 
-4. 
-5. 
+3. Advanced Visualizations and Geospatial Data
+4. Creating Dashboards with Plotly and Dash
+5. Final Project and Exam
+
+## Labs 
+
+There are several labs performed at Jupyter Notebooks, as well as some on an IDE (Visual Studio Code) and IBM Cognos Analytics.  
+For which images of the evidence will be uploaded.
+
+### 1. Introduction to Data Visualization Tools
+
+- #### [Introduction to Matplotlib and Line Plots](/C8.Data_Visualization_with_Python/S1.Introduction_Data_Visualization_Tools/S1.1.-DV0101EN-Exercise-Introduction-to-Matplotlib-and-Line-Plots.jupyterlite.ipynb)
+
+### 2. Basic and Specialized Visualization Tools
+
+- #### [Basic Visualization Tools: Area Plots, Histograms, and Bar Plots](/C8.Data_Visualization_with_Python/S2.Basic_Specialized_Visualization_Tools/S2.1.-DV0101EN-Exercise-Area-Plots-Histograms-and-Bar-Charts.jupyterlite.ipynb)
+
+- #### [Specialized Visualization Tools: Pie Charts, Box Plots, Scatter Plots, and Bubble Plots](/C8.Data_Visualization_with_Python/S2.Basic_Specialized_Visualization_Tools/S2.2.-DV0101EN-Exercise-Pie-Charts-Box-Plots-Scatter-Plots-and-Bubble-Plots.jupyterlite.ipynb)
+
+### 3. Advanced Visualizations and Geospatial Data
+
+- #### [Advanced Visualization Tools: Waffle Charts, Word Clouds, and Regression Plots](/C8.Data_Visualization_with_Python/S3.Advanced_Visualizations_Geospatial_Data/S3.1.-DV0101EN-Exercise-Waffle-Charts-Word-Clouds-and-Regression-Plots.jupyterlite.ipynb)
+
+- #### [Creating Maps and Visualizing Geospatial Data](/C8.Data_Visualization_with_Python/S3.Advanced_Visualizations_Geospatial_Data/S3.2.-DV0101EN-Exercise-Generating-Maps-in-Python.jupyterlite.ipynb) (Currently the maps cannot be displayed. I recommend downloading)
+
+### 4. Creating Dashboards with Plotly and Dash
+
+#### 1. [Plotly basics: scatter, line, bar, bubble, histogram, pie, sunburst](/C8.Data_Visualization_with_Python/S4.Creating_Dashboards_Plotly_Dash/S4.1.-DV0101EN-SkillsNetwork_jupyterlite_files_4.3_Plotly_Basics.jupyterlite.ipynb)
+
+#### 2. Dash basics: HTML and core components
+
+- [Guided exercise](/C8.Data_Visualization_with_Python/S4.Creating_Dashboards_Plotly_Dash/S4.2.1.-dash_basics.py)
+
+<img src="/C8.Data_Visualization_with_Python/Assets/App_dashplot11.png" width="900" height="400"/>
