@@ -41,4 +41,19 @@ For which images of the evidence will be uploaded.
 
 - [Guided exercise](/C8.Data_Visualization_with_Python/S4.Creating_Dashboards_Plotly_Dash/S4.2.1.-dash_basics.py)
 
-<img src="/C8.Data_Visualization_with_Python/Assets/App_dashplot11.png" width="900" height="400"/>
+<img src="/C8.Data_Visualization_with_Python/Assets/App_dashplot11.png" width="700" height="300"/>
+
+- [Task entrusted](/C8.Data_Visualization_with_Python/S4.Creating_Dashboards_Plotly_Dash/S4.2.2.-dash_basics2.py)
+
+<img src="/C8.Data_Visualization_with_Python/Assets/App_dashplot12.png" width="700" height="330"/>
+
+#### 3. Add interactivity: user input and callbacks
+
+-[Guided exercise](/C8.Data_Visualization_with_Python/S4.Creating_Dashboards_Plotly_Dash/S4.3.1.-dash_interactivity.py)
+
+<div>
+  <img src="/C8.Data_Visualization_with_Python/Assets/App_dashplot211.png" width="500" height="230"/>
+  <img src="/C8.Data_Visualization_with_Python/Assets/App_dashplot212.png" width="500" height="230"/>
+</div>
+
+-[Task entrusted](/C8.Data_Visualization_with_Python/S4.Creating_Dashboards_Plotly_Dash/S4.3.2.-dash_interactivity2.py)
