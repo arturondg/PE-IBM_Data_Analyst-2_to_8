@@ -35,9 +35,9 @@ For which images of the evidence will be uploaded.
 
 ### 4. Creating Dashboards with Plotly and Dash
 
-#### 1. [Plotly basics: scatter, line, bar, bubble, histogram, pie, sunburst](/C8.Data_Visualization_with_Python/S4.Creating_Dashboards_Plotly_Dash/S4.1.-DV0101EN-SkillsNetwork_jupyterlite_files_4.3_Plotly_Basics.jupyterlite.ipynb)
+#### I. [Plotly basics: scatter, line, bar, bubble, histogram, pie, sunburst](/C8.Data_Visualization_with_Python/S4.Creating_Dashboards_Plotly_Dash/S4.1.-DV0101EN-SkillsNetwork_jupyterlite_files_4.3_Plotly_Basics.jupyterlite.ipynb)
 
-#### 2. Dash basics: HTML and core components
+#### II. Dash basics: HTML and core components
 
 - [Guided exercise](/C8.Data_Visualization_with_Python/S4.Creating_Dashboards_Plotly_Dash/S4.2.1.-dash_basics.py)
 
@@ -47,7 +47,7 @@ For which images of the evidence will be uploaded.
 
 <img src="/C8.Data_Visualization_with_Python/Assets/App_dashplot12.png" width="700" height="330"/>
 
-#### 3. Add interactivity: user input and callbacks
+#### III. Add interactivity: user input and callbacks
 
 - [Guided exercise](/C8.Data_Visualization_with_Python/S4.Creating_Dashboards_Plotly_Dash/S4.3.1.-dash_interactivity.py)
 
@@ -63,7 +63,7 @@ For which images of the evidence will be uploaded.
   <img src="/C8.Data_Visualization_with_Python/Assets/App_dashplot222.png" width="500" height="230"/>
 </div>
 
-#### 4. Flight Delay Time Statistics Dashboard
+#### IV. Flight Delay Time Statistics Dashboard
 
 - [Guided exercise](/C8.Data_Visualization_with_Python/S4.Creating_Dashboards_Plotly_Dash/S4.4.1.-flight_delay.py)
 
@@ -92,3 +92,30 @@ For which images of the evidence will be uploaded.
   <img src="/C8.Data_Visualization_with_Python/Assets/Dash_plot3223.png" width="245" height="135"/>
   <img src="/C8.Data_Visualization_with_Python/Assets/Dash_plot3224.png" width="245" height="135"/>
 </div>
+
+### 5. Final Project
+
+#### I. Practice Assignment 
+
+- [Dash Application layout](/C8.Data_Visualization_with_Python/S5.Final_Project-Exam/S5.1.-dash_layout.py)
+
+<div>
+  <img src="/C8.Data_Visualization_with_Python/S5.Final_Project-Exam/Assets/App_Dash111.png" width="500" height="230"/>
+  <img src="/C8.Data_Visualization_with_Python/S5.Final_Project-Exam/Assets/App_Dash112.png" width="500" height="230"/>
+</div>
+
+- [Dashboard - Car Automobile Components](/C8.Data_Visualization_with_Python/S5.Final_Project-Exam/S5.2.-Dash_Auto.py)
+
+<div>
+  <img src="/C8.Data_Visualization_with_Python/S5.Final_Project-Exam/Assets/App_Dash211.png" width="500" height="230"/>
+  <img src="/C8.Data_Visualization_with_Python/S5.Final_Project-Exam/Assets/App_Dash212.png" width="500" height="230"/>
+</div>
+
+#### II. Final Assignment
+
+- [Assignment](/C8.Data_Visualization_with_Python/S5.Final_Project-Exam/S5.3.-5_Peer_Graded_Assignment_Questions.py) 
+
+<img src="/C8.Data_Visualization_with_Python/S5.Final_Project-Exam/Assets/Finass42.png" width="900" height="430"/>
+
+<img src="/C8.Data_Visualization_with_Python/S5.Final_Project-Exam/Assets/Finass51.png" width="900" height="430"/>
+
